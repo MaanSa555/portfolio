@@ -1,0 +1,38 @@
+<!--  
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manvendra Singh Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Port<span class ="folio">folio</span></h1>
+    <div class = "container">
+        <div class ="sidebar">
+            <nav>
+      
+                <a href="#">Home </a>
+                <a href="#">MyIntro</a>
+                <a href="#">Sevise</a>
+                <a href="#">Cv</a>
+               
+              </nav>
+        </div>
+    </div>
+
+  </header>
+  <main>
+    <p>My Name Is</p>
+    <h1>Manvendra Singh </h1>
+    <p>and i am a student</p>
+    <img src="02.jpg.jpg" alt="">
+    
+  </main>
+  
+</body>
+</html>*/-->
